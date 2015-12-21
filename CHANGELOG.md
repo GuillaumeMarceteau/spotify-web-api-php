@@ -1,4 +1,7 @@
 # Changelog
+### 1.2.1 (2015-12-21)
+* The minimum required PHP version has been downgraded to 5.4. ([2b99d8c](https://github.com/GuillaumeMarceteau/spotify-web-api-php/commit/2b99d8c86c50523d5e3500faace3bd519af911d5))
+
 ### 1.2.0 (2015-12-01)
 * The following methods have been added:
   `SpotifyWebAPI::getMyPlaylists()` ([ea8f0a2](https://github.com/jwilsson/spotify-web-api-php/commit/ea8f0a2c23fb6bc4e496b6fb6885b5517626860f))
